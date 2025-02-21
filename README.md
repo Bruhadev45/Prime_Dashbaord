@@ -1,6 +1,5 @@
 Here's a concise yet effective **README.md** file for your **GitHub repository**:  
 
-```markdown
 # Prime Dashboard  
 
 Prime Dashboard is an interactive Tableau project that provides insights into Amazon Prime’s content library. It visualizes data on movies and TV shows, helping users analyze trends, genres, and top-rated content.  
@@ -12,9 +11,7 @@ Prime Dashboard is an interactive Tableau project that provides insights into Am
 
 ## 🚀 Getting Started  
 ### 1️⃣ Clone the Repository  
-```bash
 git clone https://github.com/Bruhadev45/Prime_Dashboard.git
-```
 ### 2️⃣ Open the Dashboard  
 - Ensure [Tableau](https://www.tableau.com/) is installed.  
 - Open the `Prime_Dashboard.twb` file in Tableau.  
