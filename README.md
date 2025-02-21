@@ -1,5 +1,3 @@
-Here's a concise yet effective **README.md** file for your **GitHub repository**:  
-
 # Prime Dashboard  
 
 Prime Dashboard is an interactive Tableau project that provides insights into Amazon Prime’s content library. It visualizes data on movies and TV shows, helping users analyze trends, genres, and top-rated content.  
